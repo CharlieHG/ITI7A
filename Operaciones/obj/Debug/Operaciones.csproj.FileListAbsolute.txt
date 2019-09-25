@@ -1,0 +1,7 @@
+C:\Users\Carlo\source\repos\Operaciones\Operaciones\obj\Debug\Operaciones.csprojAssemblyReference.cache
+C:\Users\Carlo\source\repos\Operaciones\Operaciones\obj\Debug\Operaciones.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\source\repos\Operaciones\Operaciones\bin\Debug\Operaciones.exe.config
+C:\Users\Carlo\source\repos\Operaciones\Operaciones\bin\Debug\Operaciones.exe
+C:\Users\Carlo\source\repos\Operaciones\Operaciones\bin\Debug\Operaciones.pdb
+C:\Users\Carlo\source\repos\Operaciones\Operaciones\obj\Debug\Operaciones.exe
+C:\Users\Carlo\source\repos\Operaciones\Operaciones\obj\Debug\Operaciones.pdb
